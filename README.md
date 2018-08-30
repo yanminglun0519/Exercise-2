@@ -1,2 +1,2 @@
-# Exercise-2
-Exercise week 2
+# Exercise-3
+Exercise week 3
